@@ -1,0 +1,1 @@
+This repository demonstrates a common issue encountered when using Lua's `pairs` iterator with nested tables. The `pairs` iterator does not guarantee any specific order of iteration, which can lead to unexpected results if the table is modified during iteration. The provided code showcases the problem, and a solution is provided.
